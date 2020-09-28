@@ -1,2 +1,2 @@
 # FIFATeamGenerator
-This application generates a soccer team from a local spreadsheet file, consisting of top 10 soccer players from each position in the field.
+This application generates a soccer team of players from Europe's top 5 leagues whose records are stored in a local spreadsheet file.
